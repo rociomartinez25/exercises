@@ -13,3 +13,8 @@ section {
 /* DO NOT TOUCH ANY STYLES ABOVE THIS LINE! */
 /* WRITE YOUR STYLES BELOW! 👇👇👇           */
 /* **************************************** */
+
+main{
+  display: grid;
+  
+}
